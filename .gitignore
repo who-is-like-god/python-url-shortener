@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+
+# Virtual environment
+.venv/
+venv/
+
+test.py
+decriptor.py
+
+# IDE
+.idea/
+
+# SQLite database
+*.db
+*.sqlite3
+
+#DB backup
+urls.db.backup
